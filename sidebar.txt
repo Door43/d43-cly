@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cly:home|Door43 (cly)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cly|d43-cly repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cly/archive/master.zip|d43-cly.zip]]
+
+**Recent Changes**
+{{changes>ns = cly}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cly|Ethnologue data]]
+
